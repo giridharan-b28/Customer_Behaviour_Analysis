@@ -7,6 +7,7 @@ Dashboard Preview
 <img width="1142" height="647" alt="image" src="https://github.com/user-attachments/assets/afdc819d-a4f0-451d-b966-2e7eabc800ef" />
 
 Project Steps
+
 1️ Data Loading & Cleaning (Python)
 
 Loaded CSV dataset using Pandas
