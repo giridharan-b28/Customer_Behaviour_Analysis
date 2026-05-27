@@ -6,7 +6,7 @@ Dashboard Preview
 
 <img width="1142" height="647" alt="image" src="https://github.com/user-attachments/assets/afdc819d-a4f0-451d-b966-2e7eabc800ef" />
 
-
+📌 Project Steps:
 1. Data Loading & Cleaning (Python)
 The dataset was loaded from a CSV file using the Pandas library. It was then inspected for null values, duplicate records, and incorrect data types to ensure data quality. Age group bins were created to categorize customers into four segments — Young Adult, Adult, Middle-aged, and Senior. The cleaned dataset was then exported for SQL analysis.
 
