@@ -1,4 +1,5 @@
 📌 Overview
+
 This project analyzes the shopping behavior of 3,900+ retail customers to uncover insights on revenue trends, customer segmentation, discount impact, and subscription value. The goal is to help businesses make data-driven decisions to improve customer retention and maximize revenue.
 
 Dashboard Preview
